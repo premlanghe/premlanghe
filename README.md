@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @premlanghe
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning masters of computer apllication
+- 🌱 I’m currently learning masters of computer application
 - 💞️ I’m looking to collaborate on developer
 - 📫 How to reach me pslanghe@gmail.com
 
